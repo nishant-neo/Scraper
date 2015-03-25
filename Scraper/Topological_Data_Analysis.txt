@@ -1,0 +1,47 @@
+http://en.wikipedia.org/wiki/Topological_Data_Analysis
+*************************METADATA*************************
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.25wmf21/skins/Vector/csshover.min.htc")}</style><![endif]--><!-- CentralNotice --><!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   42.140      1 - -total
+ 69.79%   29.408      1 - Template:Cite_journal
+ 13.84%    5.831      1 - Template:Citation
+  9.39%    3.957      1 - Template:Cite_book
+--><!-- Saved in parser cache with key enwiki:pcache:idhash:17740009-0!*!0!!en!*!*!math=0 and timestamp 20150321142156 and revision id 639730936
+ -->
+*************************DATA*************************
+Topological data analysis
+From Wikipedia, the free encyclopedia
+Jump to:, 
+Topological data analysis (TDA) is a new area of study aimed at having applications in areas such as data mining and computer vision. The main problems are:
+The human brain can easily extract global structure from representations in a strictly lower dimension, i.e. we infer a 3D environment from a 2D image from each eye. The inference of global structure also occurs when converting discrete data into continuous images, e.g. dot-matrix printers and televisions communicate images via arrays of discrete points.
+The main method used by topological data analysis is:
+Point cloud data
+Data is often represented as points in a Euclidean -dimensional space E. The global  of the data may provide information about the phenomena that the data represent.
+One type of data set for which global features are certainly present is the so-called  data coming from physical objects in 3D. E.g. a laser can scan an object at a set of discrete points and the cloud of such points can be used in a computer representation of the object. Point cloud data is any collection of points in  or a (perhaps noisy) sample of points on a lower-dimensional subset.
+For point clouds in low-dimensional spaces there are numerous approaches for inferring features based on planar projections in the fields of computer graphics and statistics. Topological data analysis is needed when the spaces are high-dimensional or too twisted to allow planar projections to faithfully represent the features of the point cloud.
+To convert a point cloud in a metric space into a global object, use the point cloud as the vertices of a graph whose edges are determined by proximity, then turn the graph into a simplicial complex and use algebraic topology to study it. An alternative approach is the minimum spanning tree-based method in the geometric data clustering. If a group of data points forms a cluster, then the geometry of this point cloud can be determined.
+Background
+Topological data analysis includes different methods and representations whose purpose is to cluster variegated data via a point cloud stated above. The following are various methods to do so.
+Combinatorial representations
+Topological invariants
+Multiscale invariants
+Persistent homology essentially calculates homology groups at different spatial resolutions to see which features persist over a wide range of length scales. It is assumed that important features and structures are the ones that persist. We define persistent homology as follows: Let  be a filtration. The p-persistent kth homology group of  is .
+Let  be a nonbounding -cycle created at time  by simplex  and let  be a homologous -cycle that becomes a boundary cycle at time  by simplex . Then we can define the persistence interval associated to  as . We call  the creator of  and  the destroyer of . If  does not have a destroyer, its persistence is . Instead of using an index-based filtration, we can use a time-based filtration. Let  be a simplicial complex and  be a filtration defined for an associated map  that maps simplices in the final complex to real numbers. Then for all real numbers , the -persistent kth homology group of  is . The persistence of a -cycle created at time  and destroyed at  is . 
+There are various software packages for computing persistence intervals of a finite filtration, such as javaPlex, Dionysus, Perseus (which uses discrete Morse theory to simplify the matrix algebra), and PHAT.
+See also
+References
+   
+Further reading
+Weinberger, Shmuel (2011), ,  
+: 
+Personal tools
+Namespaces
+Views
+Navigation
+Interaction
+Tools
+Print/export
+Languages
+ This page was last modified on 26 December 2014, at 21:07.
+Text is available under the ;
+additional terms may apply.  By using this site, you agree to the  and , a non-profit organization.

@@ -1,0 +1,112 @@
+http://en.wikipedia.org/wiki/Employer
+*************************METADATA*************************
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.25wmf21/skins/Vector/csshover.min.htc")}</style><![endif]--><!-- CentralNotice --><!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  681.992      1 - -total
+ 24.04%  163.929      1 - Template:Reflist
+  8.43%   57.498      1 - Template:Economics_sidebar
+  7.89%   53.829      1 - Template:Sidebar
+  7.17%   48.888      3 - Template:Navbox
+  6.71%   45.749      2 - Template:Citation_needed
+  6.70%   45.715     11 - Template:Cite_web
+  5.83%   39.743      3 - Template:Cite_journal
+  5.53%   37.695      1 - Template:Labour
+  5.32%   36.289      2 - Template:Fix
+--><!-- Saved in parser cache with key enwiki:pcache:idhash:314993-0!*!0!!en!4!* and timestamp 20150324145942 and revision id 651082406
+ -->
+*************************DATA*************************
+Employment
+From Wikipedia, the free encyclopedia
+Jump to:, 
+Employment is a relationship between two parties, usually based on a contract, one being the employer and the other being the employee.
+Employee
+An employee contributes labor and/or expertise to an endeavor of an employer and is usually hired to perform specific duties which are packaged into a job. An Employee is a person who is hired to provide services to a company on a regular basis in exchange for compensation and who does not provide these services as part of an independent business.
+Employer-worker relationship
+Employer and managerial control within an organization rests at many levels and has important implications for staff and productivity alike, with control forming the fundamental link between desired outcomes and actual processes. Employers must balance interests such as decreasing wage constraints with a maximization of labor productivity in order to achieve a profitable and productive employment relationship.
+Finding employees or employment
+The main ways for employers to find workers and for people to find employers are via jobs listings in newspapers (via classified advertising) and online, also called job boards. Employers and job seekers also often find each other via professional recruitment consultants which receive a commission from the employer to find, screen and select suitable candidates. However, a study has shown that such consultants may not be reliable when they fail to use established principles in selecting employees. A more traditional approach is with a "Help Wanted" sign in the establishment (usually hung on a window or door or placed on a store counter). Evaluating different employees can be quite laborious but setting up different techniques to analyze their skill to measure their talents within the field can be best through assessments. Employer and potential employee commonly take the additional step of getting to know each other through the process of job interview.
+Training and development
+Training and development refers to the employer's effort to equip a newly hired employee with necessary skills to perform at the job, and to help the employee grow within the organization. An appropriate level of training and development helps to improve employee's job satisfaction.
+Employee benefits
+Employee benefits are various non-wage compensation provided to employee in addition to their wages or salaries. The benefits can include: housing (employer-provided or employer-paid), group insurance (health, dental, life etc.), disability income protection, retirement benefits, daycare, tuition reimbursement, sick leave, vacation (paid and non-paid), social security, profit sharing, funding of education and other specialized benefits. Employee benefits improves the relationship between employee and employer and lowers staff turnover.
+Organizational justice
+Organizational justice is an employee's perception and judgement of employer's treatment in the context of fairness or justice. The resulting actions to influence the employee-employer relationship is also a part of organizational justice.
+Workforce organizing
+Employees can organize into trade or labor unions, which represent the work force to collectively bargain with the management of organizations about working, and contractual conditions and services.
+Ending employment
+Usually, either an employee or employer may end the relationship at any time. This is referred to as at-will employment. The contract between the two parties specifies the responsibilities of each when ending the relationship and may include requirements such as notice periods, severance pay, and security measures.
+Wage labor
+Wage labor is the socioeconomic relationship between a worker and an employer, where the worker sells their labor under a formal or informal employment contract. These transactions usually occur in a labor market where wages are market determined. In exchange for the wages paid, the work product generally becomes the undifferentiated property of the employer, except for special cases such as the vesting of intellectual property patents in the United States where patent rights are usually vested in the original personal inventor. A wage laborer is a person whose primary means of income is from the selling of his or her labor in this way.
+In modern mixed economies such as that of the OECD countries, it is currently the dominant form of work arrangement. Although most work occurs following this structure, the wage work arrangements of CEOs, professional employees, and professional contract workers are sometimes conflated with class assignments, so that "wage labor" is considered to apply only to unskilled, semi-skilled or manual labor.
+Wage slavery
+Wage labour, as institutionalised under today's market economic systems, has been criticized, especially by both mainstream socialists and anarcho-syndicalists, using the pejorative term wage slavery. Socialists draw parallels between the trade of labour as a commodity and slavery. Cicero is also known to have suggested such parallels.
+The American philosopher John Dewey posited that until "industrial feudalism" is replaced by "industrial democracy," politics will be "the shadow cast on society by big business". Thomas Ferguson has postulated in his investment theory of party competition that the undemocratic nature of economic institutions under capitalism causes elections to become occasions when blocs of investors coalesce and compete to control the state.
+Employment contract
+Australia
+Australian Employment has been governed by the Fair Work Act since 2009.
+Bangladesh
+Bangladesh Association of International Recruiting Agencies (BAIRA) is an association of national level with its international reputation of co-operation and welfare of the migrant workforce as well as its approximately 1200 members agencies in collaboration with and support from the Government of Bangladesh.
+Canada
+In the Canadian province of Ontario, formal complaints can be brought to the Ministry of Labour. In the province of Quebec, grievances can be filed with the Commission des normes du travail.
+Pakistan
+Pakistan has Contract Labor, Minimum Wage and Provident Funds Acts. Contract labor in Pakistan must be paid minimum wage and certain facilities are to be provided to labor. However, the Acts are not yet fully implemented.
+India
+India has Contract Labor, Minimum Wage, Provident Funds Act and various other acts to comply with. Contract labor in India must be paid minimum wage and certain facilities are to be provided to labor. However, there is still a large amount of work that remains to be done to fully implement the Act.
+Philippines
+In the Philippines, private employment is regulated under the Labor Code of the Philippines by the Department of Labor and Employment.
+United Kingdom
+In the United Kingdom employment contracts are categorised by the government into the following types:
+United States
+In the United States, the standard employment relationship is considered to be at-will, meaning that the employer and employee are both free to terminate the employment at any time and for any cause, or for no cause at all. However, if a termination of employment by the employer is deemed unjust by the employee, there can be legal recourse to challenge such a termination. Unjust termination may include termination due to discrimination because of an individual's race, national origin, sex or gender, pregnancy, age, physical or mental disability, religion, or military status. Additional protections apply in some states, for instance in California unjust termination reasons include marital status, ancestry, sexual orientation or medical condition. Despite whatever agreement an employer makes with an employee for the employee's wages, an employee is entitled to certain minimum wages set by the federal government. The states may set their own minimum wage that is higher than the federal government's to ensure a higher standard of living or living wage for those who are employed. Under the Equal Pay Act of 1963 an employer may not give different wages based on sex alone.
+Employees are often contrasted with independent contractors, especially when there is dispute as to the worker's entitlement to have matching taxes paid, workers compensation, and unemployment insurance benefits. However, in September 2009, the court case of  ruled that independent contractors are regarded as employees for the purpose of discrimination laws if they work for the employer on a regular basis, and said employer directs the time, place, and manner of employment.
+In non-union work environments, in the United States, unjust termination complaints can be brought to the United States Department of Labor.
+U.S. Federal income tax withholding
+Internal Revenue Code:
+Labor unions
+Labor unions are legally recognized as representatives of workers in many industries in the United States. Their activity today centers on collective bargaining over wages, benefits, and working conditions for their membership, and on representing their members in disputes with management over violations of contract provisions. Larger unions also typically engage in lobbying activities and electioneering at the state and federal level.
+Most unions in America are aligned with one of two larger umbrella organizations: the AFL-CIO created in 1955, and the Change to Win Federation which split from the AFL-CIO in 2005. Both advocate policies and legislation on behalf of workers in the United States and Canada, and take an active role in politics. The AFL-CIO is especially concerned with global trade issues.
+Sweden
+According to Swedish law, there are three types of employment.
+There are no laws about minimum salary in Sweden. Instead there are agreements between employer organizations and trade unions about minimum salaries, and other employment conditions.
+There is a type of employment contract which is common but not regulated in law, and that is Hour employment (), which can be Normal employment (unlimited), but the work time is unregulated and decided per immediate need basis. The employee is expected to be answering the phone and come to work when needed, e.g. when someone is ill and absent from work. They will receive salary only for actual work time and can be in reality be fired for no reason by not being called anymore. This type of contract is common in the public sector.
+Youth employment
+Research has looked at understanding private sector led youth employment programmes that contain or are supported through temporary employment/employer placement, and not in only training. Researchers claimed that a problem rising up the international agenda involves enlarging the share of the population in employment. After looking at literature they concluded that youth employment programmes are most effective when combining elements. The most effective programmes involve the private sector with training provided both in the classroom and in work placements. The majority of interventions worldwide include a large element of such training initiatives. Wage subsidies have some incidences of fairly strong impacts. With other types of interventions like in entrepreneurship and in job placement assistance, the evidence is more mixed.
+Working poor
+Employment is no guarantee of escaping poverty, the International Labour Organisation (ILO) estimates that as many as 40% of workers as poor, not earning enough to keep their families above the $2 a day poverty line. For instance, in India most of the chronically poor are wage earners in formal employment, because their jobs are insecure and low paid and offer no chance to accumulate wealth to avoid risks. According to the UNRISD, increasing labor productivity appears to have a negative impact on job creation: in the 1960s, a 1% increase in output per worker was associated with a reduction in employment growth of 0.07%, by the first decade of this century the same productivity increase implies reduced employment growth by 0.54%. Both increased employment opportunities and increased labor productivity (as long as it also translates into higher wages) are needed to tackle poverty. Increases in employment without increases in productivity leads to a rise in the number of "working poor", which is why some experts are now promoting the creation of "quality" and not "quantity" in labor market policies. This approach does highlight how higher productivity has helped reduce poverty in East Asia, but the negative impact is beginning to show. In Vietnam, for example, employment growth has slowed while productivity growth has continued. Furthermore, productivity increases do not always lead to increased wages, as can be seen in the United States, where the gap between productivity and wages has been rising since the 1980s.
+Researchers at the Overseas Development Institute argue that there are differences across economic sectors in creating employment that reduces poverty. 24 instances of growth were examined, in which 18 reduced poverty. This study showed that other sectors were just as important in reducing unemployment, as manufacturing. The services sector is most effective at translating productivity growth into employment growth. Agriculture provides a safety net for jobs and economic buffer when other sectors are struggling.
+Models of the employment relationship
+Scholars conceptualize the employment relationship in various ways. A key assumption is the extent to which the employment relationship necessarily includes conflicts of interests between employers and employees, and the form of such conflicts.working classes in a Marxist framework) that are part of a deeper social conflict of unequal power relations. As a result, there are four common models of employment:
+These models are important because they help reveal why individuals hold differing perspectives on human resource management policies, labor unions, and employment regulation.
+Academic literature
+Literature on the employment impact of economic growth and on how growth is associated with employment at a macro, sector and industry level was aggregated in 2013.
+Researchers found evidence to suggest growth in manufacturing and services have good impact on employment. They found GDP growth on employment in agriculture to be limited, but that value-added growth had a relatively larger impact. The impact on job creation by industries/economic activities as well as the extent of the body of evidence and the key studies. For extractives, they again found extensive evidence suggesting growth in the sector has limited impact on employment. In textiles however, although evidence was low, studies suggest growth there positively contributed to job creation. In agri-business and food processing, they found impact growth to be positive.
+They found that most available literature focuses on OECD and middle-income countries somewhat, where economic growth impact has been shown to be positive on employment. The researchers didn't find sufficient evidence to conclude any impact of growth on employment in LDCs despite some pointing to the positive impact, others point to limitations. They recommended that complementary policies are necessary to ensure economic growth's positive impact on LDC employment. With trade, industry and investment, they only found limited evidence of positive impact on employment from industrial and investment policies and for others, while large bodies of evidence does exist, the exact impact remains contested.
+Globalization and employment relations
+The balance of economic efficiency and social equity is the ultimate debate in the field of employment relations. By meeting the needs of the employer; generating profits to establish and maintain economic efficiency; whilst maintaining a balance with the employee and creating social equity that benefits the worker so that he/she can fund and enjoy healthy living; proves to be a continuous revolving issue in westernized societies.
+Globalization has effected these issues by creating certain economic factors that disallow or allow various employment issues. Economist Edward Lee (1996) studies the effects of globalization and summarizes the four major points of concern that affect employment relations:
+Alternatives
+Workplace democracy
+Workplace democracy is the application of democracy in all its forms (including voting systems, debates, democratic structuring, due process, adversarial process, systems of appeal) to the workplace.
+Self-employment
+When an individual entirely owns the business for which they labor, this is known as self-employment. Self-employment often leads to incorporation. Incorporation offers certain protections of one's personal assets.
+Volunteerism
+Workers who are not paid wages, such as volunteers, are generally not considered employed. One exception to this is an internship, an employment situation in which the worker receives training or experience (and possibly college credit) as the chief form of compensation.
+Indenturing and slavery
+Those who work under obligation for the purpose of fulfilling a debt, such as an indentured servant, or as property of the person or entity they work for, such as a slave, do not receive pay for their services and are not considered employed. Some historians suggest that slavery is older than employment, but both arrangements have existed for all recorded history. Indenturing and slavery are not considered compatible with human rights and democracy.
+See also
+Notes and references
+                                   
+Bibliography
+External links
+: Hidden categories: 
+Personal tools
+Namespaces
+Views
+Navigation
+Interaction
+Tools
+Print/export
+Languages
+ This page was last modified on 12 March 2015, at 18:39.
+Text is available under the ;
+additional terms may apply.  By using this site, you agree to the  and , a non-profit organization.

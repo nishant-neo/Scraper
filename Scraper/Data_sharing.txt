@@ -1,0 +1,58 @@
+http://en.wikipedia.org/wiki/Data_sharing
+*************************METADATA*************************
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.25wmf21/skins/Vector/csshover.min.htc")}</style><![endif]--><!-- CentralNotice --><!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   98.397      1 - -total
+ 73.64%   72.456      1 - Template:Reflist
+ 56.64%   55.733      6 - Template:Cite_journal
+  6.11%    6.016      4 - Template:Quote
+  4.92%    4.843      1 - Template:Cite_book
+  1.87%    1.837      1 - Template:Column-width
+--><!-- Saved in parser cache with key enwiki:pcache:idhash:10806718-0!*!0!!en!4!* and timestamp 20150321140216 and revision id 636146542
+ -->
+*************************DATA*************************
+Data sharing
+From Wikipedia, the free encyclopedia
+Jump to:, 
+Data sharing is the practice of making data used for scholarly research available to other investigators. Replication has a long history in science. The motto of The Royal Society is 'Nullius in verba', translated "Take no man's word for it." Many funding agencies, institutions, and publication venues have policies regarding data sharing because transparency and openness are considered by many to be part of the scientific method.
+A number of funding agencies and science journals require authors of peer-reviewed papers to share any supplemental information (raw data, statistical methods or source code) necessary to understand, develop or reproduce published research. A great deal of scientific research is not subject to data sharing requirements, and many of these policies have liberal exceptions. In the absence of any binding requirement, data sharing is at the discretion of the scientists themselves. In addition, in certain situations agencies and institutions prohibit or severely limit data sharing to protect proprietary interests, national security, and subject/patient/victim confidentiality. Data sharing may also be restricted to protect institutions and scientists from use of data for political purposes.
+Data and methods may be requested from an author years after publication. In order to encourage data sharing and prevent the loss or corruption of data, a number of funding agencies and journals established policies on data archiving. Access to publicly archived data is a recent development in the history of science made possible by technological advances in communications and information technology.
+Despite policies on data sharing and archiving, data withholding still happens. Authors may fail to archive data or they only archive a portion of the data. Failure to archive data alone is not data withholding. When a researcher requests additional information, an author sometimes refuses to provide it. When authors withhold data like this, they run the risk of losing the trust of the science community.
+U.S. government policies
+Federal law
+On August 9, 2007, President Bush signed the America COMPETES Act (or the "America Creating Opportunities to Meaningfully Promote Excellence in Technology, Education, and Science Act") requiring civilian federal agencies to provide guidelines, policy and procedures, to facilitate and optimize the open exchange of data and research between agencies, the public and policymakers. See Section 1009.
+NIH data sharing policy
+The NIH Final Statement of Sharing of Research Data says:
+NSF Policy from Grant General Conditions
+Office of Research Integrity
+Allegations of misconduct in medical research carry severe consequences. The United States Department of Health and Human Services established an office to oversee investigations of allegations of misconduct, including data withholding. The website defines the mission:
+Ideals in data sharing
+Some research organizations feel particularly strongly about data sharing. Stanford University's WaveLab has a philosophy about reproducible research and disclosing all algorithms and source code necessary to reproduce the research. In a paper titled "WaveLab and Reproducible Research," the authors describe some of the problems they encountered in trying to reproduce their own research after a period of time. In many cases, it was so difficult they gave up the effort. These experiences are what convinced them of the importance of disclosing source code. The philosophy is described:
+The Data Observation Network for Earth (DataONE) and Data Conservancy are projects supported by the National Science Foundation to encourage and facilitate data sharing among research scientists and better support meta-analysis. In environmental sciences, the research community is recognizing that major scientific advances involving integration of knowledge in and across fields will require that researchers overcome not only the technological barriers to data sharing but also the historically entrenched institutional and sociological barriers. Dr. Richard J. Hodes, director of the National Institute on Aging has stated, "the old model in which researchers jealously guarded their data is no longer applicable".
+The Alliance for Taxpayer Access is a group of organizations that support open access to government sponsored research. The group has expressed a "Statement of Principles" explaining why they believe open access is important. They also list a number of international public access policies.
+International policies
+Data sharing problems
+Academic genetics
+Withholding of data has become so commonplace in academic genetics that researchers at Massachusetts General Hospital published a journal article on the subject. The study found that "Because they were denied access to data, 28% of geneticists reported that they had been unable to confirm published research."
+Scientists in training
+A study of scientists in training indicated many had already experienced data withholding. This study has given rise to the fear the future generation of scientists will not abide by the established practices.
+Differing approaches in different fields
+Requirements for data sharing are more commonly imposed by institutions, funding agencies, and publication venues in the medical and biological sciences than in the physical sciences. Requirements vary widely regarding whether data must be shared at all, with whom the data must be shared, and who must bear the expense of data sharing.
+Funding agencies such as the NIH and NSF tend to require greater sharing of data, but even these requirements tend to acknowledge the concerns of patient confidentiality, costs incurred in sharing data, and the legitimacy of the request. Private interests and public agencies with national security interests (defense and law enforcement) often discourage sharing of data and methods through non-disclosure agreements.
+See also
+References
+               
+Literature
+External links
+: Hidden categories: 
+Personal tools
+Namespaces
+Views
+Navigation
+Interaction
+Tools
+Print/export
+Languages
+ This page was last modified on 1 December 2014, at 09:12.
+Text is available under the ;
+additional terms may apply.  By using this site, you agree to the  and , a non-profit organization.

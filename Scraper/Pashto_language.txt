@@ -1,0 +1,87 @@
+http://en.wikipedia.org/wiki/Pashto_language
+*************************METADATA*************************
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.25wmf21/skins/Vector/csshover.min.htc")}</style><![endif]--><!-- CentralNotice --><!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 1374.264      1 - -total
+ 22.73%  312.403      1 - Template:Reflist
+ 21.78%  299.321     19 - Template:Navbox
+ 19.42%  266.949      1 - Template:Infobox_language
+ 18.17%  249.681      1 - Template:Navboxes
+ 17.99%  247.192      3 - Template:Navbox_with_collapsible_groups
+ 14.86%  204.253      1 - Template:Infobox
+ 12.22%  167.896     49 - Template:Lang
+ 12.00%  164.924      1 - Template:Iranian_languages
+ 11.47%  157.684     52 - Template:Category_handler
+--><!-- Saved in parser cache with key enwiki:pcache:idhash:113248-0!*!0!!en!4!* and timestamp 20150323061846 and revision id 650420143
+ -->
+*************************DATA*************************
+Pashto language
+From Wikipedia, the free encyclopedia
+Jump to:, 
+Pashto (  ; alternatively spelled Paxto, Pukhto, Pakhto, or Pushto), also known in older literature as  () or , is an Eastern Iranian language, belonging to the Indo-European family. Pashto is the native language of the Pashtun people of South-Central Asia, and one of the two official languages of Afghanistan. It is also the second-largest regional language of Pakistan, mainly spoken in the west and northwest of the country, and the main language among the Pashtun diaspora
+Pashto belongs to the Northeastern Iranian group of the Indo-Iranian branch; however,  lists it as Southeastern Iranian. Pashto's closest relatives are Khotanese, Bactrian, and Pamir languages.
+Geographic distribution
+As a national language of Afghanistan, Pashto is primarily spoken in the east, south, and southwest, but also in some northern and western parts of the country. The exact numbers of speakers are unavailable, but different estimates show that Pashto is the mother tongue of the total population of Afghanistan.
+In Pakistan, Pashto is the second-largest language and one of the provincial languages; however, provincial languages have no official status in Pakistan, given the fact that Urdu and English are the official languages of the country. Pashto is spoken as a first language by about 15.42% of Pakistan's 170 million people. It is the main language of the Pashtun-majority regions of Khyber Pakhtunkhwa, Federally Administered Tribal Areas and northern Balochistan. It is also spoken in parts of Mianwali and Attock districts of the Punjab province as well as by Pashtuns who are found living in different cities throughout the country. Modern Pashto-speaking communities are found in the cities of Karachi and Hyderabad in Sindh.
+Other communities of Pashto speakers are found in Tajikistan, and further in the Pashtun diaspora. There are also communities of Pashtun descent in the southwestern part of Jammu and Kashmir.
+In addition, sizable Pashto-speaking communities also exist in the Middle East, especially in the United Arab Emirates, Saudi Arabia, northeastern Iran (primarily in South Khorasan Province to the east of Qaen, near the Afghan border) as well as in the United States, United Kingdom, Thailand, Canada, Germany, the Netherlands, Sweden, Qatar, Australia, Japan, Russia, New Zealand, etc.
+Official status
+Pashto is one of the two official languages of Afghanistan, along with Dari (Persian). Since the early 18th century, all the kings of Afghanistan were ethnic Pashtuns except for Habibullah Kalakani. Persian as the literary language of the royal court was more widely used in government institutions while Pashto was spoken by the Pashtun tribes as their native tongue. Amanullah Khan began promoting Pashto during his reign as a marker of ethnic identity and a symbol of "official nationalism" leading Afghanistan to independence after the defeat of the British colonial power in the Third Anglo-Afghan War. In the 1930s, a movement began to take hold to promote Pashto as a language of government, administration and art with the establishment of a Pashto Society  in 1931 and the inauguration of the Kabul University in 1932 as well as the formation of the Pashto Academy  in 1937. Although officially strengthening the use of Pashto, the Afghan elite regarded Persian as a "sophisticated language and a symbol of cultured upbringing". King Zahir Shah thus followed suit after his father Nadir Khan had decreed in 1933, that both Persian and Pashto were to be studied and utilized by officials. In 1936, Pashto was formally granted the status of an official language with full rights to usage in all aspects of government and education by a royal decree under Zahir Shah despite the fact that the ethnically Pashtun royal family and bureaucrats mostly spoke Persian. Thus Pashto became a national language, a symbol for Afghan nationalism.
+The status of official language was reaffirmed in 1964 by the constitutional assembly when Afghan Persian was officially renamed to Dari. The lyrics of the national anthem of Afghanistan are in Pashto.
+In Pakistan, Urdu and English are the two official languages. Pashto has no official status at the federal level. On a provincial level, Pashto is the regional language of Khyber Pakhtunkhwa, Federally Administered Tribal Areas and northern Balochistan. The primary medium of education in government schools in Pakistan is Urdu but the Government of Khyber Pakhtunkhwa have placed more emphasis on English as the medium of instruction as of April 2014. English medium private schools in Pashto-speaking areas, however, generally do not use Pashto. The imposition of Urdu as the primary medium of education in public schools has caused a systematic degradation and decline of many of Pakistan's native languages including Pashto. This has caused growing resentment amongst Pashtuns and they also complain that Pashto is often neglected officially.
+History
+According to 19th-century linguist James Darmesteter and modern linguist Michael M. T. Henderson, Pashto is "descended from Avestan", but Georg Morgenstierne says they are merely closely related. The Rabatak inscription of Emperor Kanishka written in Bactrian and Greek contains Pashto words, Abdul Hai Habibi says that the people borrowed these Pashto words due to proximity with Pashto speakers.
+Strabo, who lived between 64 BC and 24 CE, explains that the tribes inhabiting the lands west of the Indus River were part of Ariana and to their east was India. Since the 3rd century CE and onward, they are mostly referred to by the name  () and their language as .
+Scholars such as Abdul Hai Habibi and others believe that the earliest modern Pashto work dates back to Amir Kror Suri of Ghor in the eighth century, and they use the writings found in Pata Khazana. However, this is disputed by several modern experts due to lack of strong evidence. Pata Khazana is a Pashto manuscript claimed to be first compiled during the Hotaki dynastyKandahar, Afghanistan.
+From the 16th century, Pashto poetry become very popular among the Pashtuns. Some of those who wrote poetry in Pashto are Pir Roshan, Khushal Khan Khattak, Rahman Baba, Nazo Tokhi, and Ahmad Shah Durrani, founder of the modern state of Afghanistan or the Afghan Empire.
+In modern times, noticing the incursion of Persian and Persianised-Arabic vocabulary, there is a strong desire to purify Pashto by restoring its old vocabulary.
+Grammar
+Pashto is a  (SOV) language with split ergativity. Adjectives come before nouns. Nouns and adjectives are inflected for two genders (masc./fem.), two numbers (sing./plur.), and four cases (direct, oblique I, oblique II and vocative). There is also an inflection for the subjunctive mood. The verb system is very intricate with the following tenses: present, simple past, past progressive, present perfect and past perfect. The sentence construction of Pashto has similarities with some other Indo-Iranian languages such as Prakrit and Bactrian. The Pashto noun comes after the adjective and the possessor precedes the possessed in the genitive construction. The verb generally agrees with the subject in both transitive and intransitive sentences. An exception occurs when a completed action is reported in any of the past tenses (simple past, past progressive, present perfect or past perfect). In such cases, the verb agrees with the subject if it is intransitive, but if it is transitive, it agrees with the object, therefore Pashto shows a partly ergative behavior. Like Kurdish, but unlike most other Indo-Iranian languages, Pashto uses all three types of adpositions
+Verb and subject
+Present indefinite and continues
+In Pashto, the subject of the verb is expressed within the verb by adding suffixes, in a similar way to Persian. Some of the common Pashto suffixes are shown in the following table that represent the application of subject suffixes to a verb:
+Phonology
+Vowels
+Pashto also has the diphthongs .
+Consonants
+The phonemes  tend to be replaced by . The sounds  are non-native Pashto sounds and appear in borrowed words 
+The retroflex lateral flap  ( or ) is pronounced as retroflex approximant  when final.
+The retroflex fricatives  and palatal fricatives  represent dialectally different pronunciations of the same sound, not separate phonemes. In particular, the retroflex fricatives, which represent the original pronunciation of these sounds, are preserved in the southern/southwestern dialects (especially the prestige dialect of Kandahar), while they are pronounced as palatal fricatives in the west-central dialects. Other dialects merge the original retroflexes with other existing sounds: The southeastern dialects merge them with the postalveolar fricatives , while the northern/northeastern dialects merge them with the velar phonemes in an asymmetric pattern, pronouncing them as  (not ). Furthermore, according to Henderson (1983), the west-central voiced palatal fricative  actually occurs only in the Wardak Province, and is merged into  elsewhere in the region.
+The velars  followed by the close back rounded vowel  assimilate into the labialized velars .
+Vocabulary
+In Pashto, most of the native elements of the lexicon are related to other Eastern Iranian languages. However, a remarkably large number of words are unique to Pashto. Post-7th century borrowings came primarily from the Persian and Hindustani languages, with some Arabic words being borrowed through those two languages. Modern speech borrows words from English, French, and German.
+Here is an exemplary list of Pure Pashto and borrowings:
+Writing system
+Pashto employs the Pashto alphabet, a modified form of the Arabic alphabet. It has extra letters for Pashto-specific sounds. Since the 17th century, Pashto has been primarily written in the Naskh script, rather than the Nasta'liq script used for neighboring Persian and Urdu alphabet.
+The Pashto alphabet consists of 44 letters and 4 diacritic marks. The following table gives the letters' isolated forms, along with the Latin equivalents and typical IPA values:
+Dialects
+Pashto dialects are divided into two varieties, the "soft" southern variety , and the "hard" northern variety . Each variety is further divided into a number of dialects. The southern dialect of Wanetsi is the most distinctive Pashto dialect.
+1. Southern variety
+2. Northern variety
+3. Wanetsi dialect
+Literature
+Pashto-speakers have long had a tradition of oral literature, including proverbs, stories, and poems. Written Pashto literature saw a rise in development in the 17th century mostly due to poets like Khushal Khan KhattakRahman BabaAhmad Shah Durrani ("Introduction of Afghani [Pashto]"). After that, the first grammar book of Pashto verbs was written in 1805 in India under the title of  ("Training in Affection") through the patronage of Nawab Mohabat Khan, son of Hafiz Rahmat Khan, chief of the Barech. Nawabullah Yar Khan, another son of Hafiz Rahmat Khan, in 1808 wrote a book of Pashto words entitled  ("Wonders of Languages").
+Poetry Example
+An excerpt from the  of Rahman Baba:
+'I Rahman, myself am guilty/rebuked that I am a lover,
+On what does this other universe/world call me guilty.'
+ An example matal [proverb]:
+'Water does not separate with a pole [hitting it]'
+This matal philosophically means that things which by their nature are destined to be united, force can not separate them.
+See also
+References
+   Pashto (2005). , ed.  (2 ed.). Elsevier. .                                              (2004), Craig Baxter, ed.,                     
+Bibliography
+External links
+: Hidden categories: 
+Personal tools
+Namespaces
+Views
+Navigation
+Interaction
+Tools
+Print/export
+Languages
+ This page was last modified on 8 March 2015, at 08:36.
+Text is available under the ;
+additional terms may apply.  By using this site, you agree to the  and , a non-profit organization.
